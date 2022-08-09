@@ -13,7 +13,7 @@
 
 ## Ways to reach me:
 
-[<img align="left" alt="SauRavRwT | Telegram" width="44px" src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/main/assets/telegram.png"/>](https://t.me/OPPA_4_U)[<img align="left" alt="SauRavRwT | Instagram" width="44px" src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/main/assets/instagram.png" />](https://www.instagram.com/LitNrawat/)[<img align="left" alt="SauRavRwT | Gmail" width="44px" src="https://github.com/LitNrawat/LitNrawat/blob/main/assets/gmai.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nitinrawat@gmail.com) [<img align="left" alt="SauRavRwT | YouTube" width="44px" src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/main/assets/youtube.png"/>](https://youtube.in/akatsuki2066/)
+[<img align="left" alt="SauRavRwT | Telegram" width="44px" src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/main/assets/telegram.png"/>](https://t.me/OPPA_4_U)[<img align="left" alt="SauRavRwT | Instagram" width="44px" src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/main/assets/instagram.png" />](https://www.instagram.com/rawat.sensei/)[<img align="left" alt="SauRavRwT | Gmail" width="44px" src="https://github.com/LitNrawat/LitNrawat/blob/main/assets/gmai.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nitinrawat@gmail.com) [<img align="left" alt="SauRavRwT | YouTube" width="44px" src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/main/assets/youtube.png"/>](https://youtube.in/akatsuki2066/)
 <br>
 <br>
   
