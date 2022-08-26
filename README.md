@@ -7,9 +7,16 @@
         </samp>
 </h3>
 
-### Now Playing 🎧
+<h1 align='center'>⚡️<i> Now Playing ! </i>⚡️</h1>
 
 [![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/31yhbuia3m5aa5vkzebrgk7rujly?si=t0msQwEiTweToi7cCKUOHw&utm_source=copy-link)
+
+<h1 align='center'>⚡️<i> Github Stats </i>⚡️</h1>
+
+  <div align="center">
+    <a href="#"><img alt="Nitin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NitinRwt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200"/></a>
+  <hr/>
+</div>
 
 ## Ways to reach me:
 
