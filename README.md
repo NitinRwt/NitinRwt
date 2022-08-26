@@ -13,9 +13,19 @@
 
 ## Ways to reach me:
 
-[<img align="left" alt="SauRavRwT | Telegram" width="44px" src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/main/assets/telegram.png"/>](https://t.me/OPPA_4_U)[<img align="left" alt="SauRavRwT | Instagram" width="44px" src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/main/assets/instagram.png" />](https://www.instagram.com/rawat.sensei/)[<img align="left" alt="SauRavRwT | Gmail" width="44px" src="https://github.com/LitNrawat/LitNrawat/blob/main/assets/gmai.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nitinrawat@gmail.com) [<img align="left" alt="SauRavRwT | YouTube" width="44px" src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/main/assets/youtube.png"/>](https://youtube.in/akatsuki2066/)
 <br>
+<p align="center">
+<a target="_blank" href="mailto:nitinrawat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://t.me/OPPA_4_U"><img src="https://img.shields.io/badge/-instagram-lightsalmon?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://youtube.in/akatsuki2066/"><img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+</p>  
+<div align="center"><img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/friends.gif" width="60"> <em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em></div>
 <br>
-  
-<img src="https://github.com/LitNrawat/LitNrawat/blob/main/assets/friends.gif" width="60"> <em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
-  ---
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i> Stay awesome! </i>⚡️</h1>
+<p align="center">
+        <img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/Bottom.svg" alt="Github Stats" />
+</p>
