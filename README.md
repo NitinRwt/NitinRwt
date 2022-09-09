@@ -14,7 +14,7 @@
 <h1 align='center'>⚡️<i> Github Stats </i>⚡️</h1>
 
   <div align="center">
-    <a href="#"><img alt="Saurav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SauRavRwT&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=708090&icon_color=708090" height="200"/></a>
+    <a href="#"><img alt="Nitin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NitinRwT&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=708090&icon_color=708090" height="200"/></a>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=NitinRwt&label=Profile%20views&color=0e75b6&style=flat" alt="NitinRwt" /></p>
 </div>
 
