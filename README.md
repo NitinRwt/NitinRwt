@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">
         <samp>&gt; Hello World! <img src="https://github.com/LitNrawat/LitNrawat/blob/main/assets/wave.gif" alt="Wave gif" width="25px" height="25px"><br>
-          &gt; I am <b>Nitin Rawat</b>
+          &gt; I am <a href="https://nitinrwt.github.io/Nitin.in/" target="_blank">Nitin Rawat</a>
         </samp>
 </h3>
 
