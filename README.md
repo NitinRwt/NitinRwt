@@ -9,7 +9,7 @@
 
 <h1 align='center'>⚡️<i> Now Playing ! </i>⚡️</h1>
 
-[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/31yhbuia3m5aa5vkzebrgk7rujly?si=t0msQwEiTweToi7cCKUOHw&utm_source=copy-link)
+![Spotify : NitinRwt](https://spotify-recently-played-readme.vercel.app/api?user=31yhbuia3m5aa5vkzebrgk7rujly&count=1&unique=true)
 
 <h1 align='center'>⚡️<i> Github Stats </i>⚡️</h1>
 
@@ -18,8 +18,8 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=NitinRwt&label=Profile%20views&color=0e75b6&style=flat" alt="NitinRwt" /></p>
 <div align="center">
  
-![github contribution grid snake animation](https://raw.githubusercontent.com/SauRavRwT/NitinRwT/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/SauRavRwT/NitinRwT/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/NitinRwt/NitinRwt/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/NitinRwt/NitinRwt/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
   
 </div>
 </div>
@@ -40,6 +40,3 @@
 <p align="center">Made with ❤️ in India</p>
 
 <h1 align='center'>⚡️<i> Stay awesome! </i>⚡️</h1>
-<p align="center">
-        <img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/Bottom.svg" alt="Github Stats" />
-</p>
