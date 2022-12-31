@@ -8,9 +8,10 @@
 </h3>
 
 <h1 align='center'>⚡️<i> Now Playing ! </i>⚡️</h1>
-
+<div align='center'>
+  
 ![Spotify : NitinRwt](https://spotify-recently-played-readme.vercel.app/api?user=31yhbuia3m5aa5vkzebrgk7rujly&count=1&unique=true)
-
+</div>
 <h1 align='center'>⚡️<i> Github Stats </i>⚡️</h1>
 
   <div align="center">
