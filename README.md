@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/LitNrawat/LitNrawat/master/assets/stalker.svg" alt="Nitin Rawat" />
-</h1>
 <h3 align="center">
         <samp>&gt; Hello World! <img src="https://github.com/LitNrawat/LitNrawat/blob/main/assets/wave.gif" alt="Wave gif" width="25px" height="25px"><br>
           &gt; I am <a href="https://nitinrwt.github.io/HDwalls/" target="_blank">Nitin Rawat</a>
