@@ -4,30 +4,24 @@
         </samp>
 </h3>
 
-<h1 align='center'>⚡️<i> Now Playing ! </i>⚡️</h1>
+<h1 align='center'><i> Now Playing ! </i></h1>
 <div align='center'>
   
-![Spotify : NitinRwt](https://spotify-recently-played-readme.vercel.app/api?user=31yhbuia3m5aa5vkzebrgk7rujly&count=1&unique=true)
+![Spotify : NitinRwt](https://spotify-recently-played-readme.vercel.app/api?user=31yhbuia3m5aa5vkzebrgk7rujly&count=2&unique=true)
 </div>
-<h1 align='center'>⚡️<i> Github Stats </i>⚡️</h1>
+<h1 align='center'><i> Github Stats </i></h1>
 
   <div align="center">
-    <a href="#"><img alt="Nitin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NitinRwT&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=708090&icon_color=708090" height="200"/></a>
+    <a href="#"><img alt="Nitin's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=NitinRwT&amp;hide_border=true&amp;dates=256D85&amp;currStreakNum=256D85&amp;sideLabels=7895B2&amp;sideNums=7895B2&amp;fire=7895B2&amp;stroke=7895B2&amp;ring=256D85&amp;background=FFFFFF00" /></a>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=NitinRwt&label=Profile%20views&color=0e75b6&style=flat" alt="NitinRwt" /></p>
-<div align="center">
- 
-![github contribution grid snake animation](https://raw.githubusercontent.com/NitinRwt/NitinRwt/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/NitinRwt/NitinRwt/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-  
-</div>
 </div>
 
 ## Ways to reach me:
 
 <br>
 <p align="center">
-<a target="_blank" href="https://t.me/OPPA_4_U"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
-<a target="_blank" href="https://t.me/OPPA_4_U"><img src="https://img.shields.io/badge/-instagram-salmon?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://t.me/rawatsensei"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
+<a target="_blank" href="https://t.me/rawat.sensei"><img src="https://img.shields.io/badge/-instagram-salmon?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://youtube.in/akatsuki2066/"><img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 <a target="_blank" href="mailto:nitinrawat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>  
@@ -37,4 +31,4 @@
 </p>
 <p align="center">Made with ❤️ in India</p>
 
-<h1 align='center'>⚡️<i> Stay awesome! </i>⚡️</h1>
+<h1 align='center'><i> Stay awesome! </i></h1>
