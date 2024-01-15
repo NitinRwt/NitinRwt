@@ -1,13 +1,10 @@
 <h3 align="center">
   <samp>&gt; Hello World! <img src="https://github.com/LitNrawat/LitNrawat/blob/main/assets/wave.gif" alt="Wave gif" width="25px" height="25px"><br>
-    &gt; I am <a href="https://nitinrwt.github.io/HDwalls/" target="_blank">Nitin Rawat</a>
+    &gt; I am <a href="https://nitinrwt.github.io/" target="_blank">Nitin Rawat</a>
   </samp>
 </h3>
 <h1 align='center'><i> Now Playing ! </i></h1>
-<div align='center'>
-Spotify : NitinRwt
 
-</div>
 <h1 align='center'><i> GitHub Stats </i></h1>
 <div align="center">
   <a href="#"><img alt="Nitin's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=NitinRwT&amp;hide_border=true&amp;dates=256D85&amp;currStreakNum=256D85&amp;sideLabels=7895B2&amp;sideNums=7895B2&amp;fire=7895B2&amp;stroke=7895B2&amp;ring=256D85&amp;background=FFFFFF00" /></a>
