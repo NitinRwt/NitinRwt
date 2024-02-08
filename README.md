@@ -1,45 +1,37 @@
-<h3 align="center">
-  <samp>&gt; Hello World! <img src="https://github.com/LitNrawat/LitNrawat/blob/main/assets/wave.gif" alt="Wave gif" width="25px" height="25px"><br>
-    &gt; I am <a href="https://nitinrwt.github.io/" target="_blank">Nitin Rawat</a>
-  </samp>
-</h3>
-<h1 align='center'><i> Now Playing ! </i></h1>
+<!-- My profile -->
+![Hanuman Ji](https://github.com/SauRavRwT/SauRavRwT/assets/90666710/0758796f-e7e8-4dbc-872e-fb270e15cf46)
 
-<h1 align='center'><i> GitHub Stats </i></h1>
-<div align="center">
-  <a href="#"><img alt="Nitin's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=NitinRwT&amp;hide_border=true&amp;dates=256D85&amp;currStreakNum=256D85&amp;sideLabels=7895B2&amp;sideNums=7895B2&amp;fire=7895B2&amp;stroke=7895B2&amp;ring=256D85&amp;background=FFFFFF00" /></a>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=NitinRwt&label=Profile%20views&color=0e75b6&style=flat" alt="NitinRwt" /></p>
-</div>
-<br>
-<h2 align="center">Ways to reach me:</h2>
-<div align="center">
-  <img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/friends.gif" width="60"><em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
-  <br>
-  <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-  <p align="center">Made with ❤️ in India</p>
-  <h1 align='center'><i> Stay awesome! </i></h1>
-</div>
 
-Hello, I'm Nitin Rawat, and I enjoy building and creating. This is my GitHub profile, where you can explore my projects, contributions, and more. Feel free to connect with me through various channels!
+> **"Transforming Data into Intelligent Solutions"**
 
-Spotify Now Playing
-Check out what I'm currently listening to on Spotify!
+### Hi there 👋 , I'm [Nitin Rawat](https://NitinRwt.github.io)<div  align="right"><img src="https://komarev.com/ghpvc/?username=SauRavRwT&label=Visitors&color=64CCC5&style=flat" alt="visitor badge"/></div>
 
-instagram - rawat.sensei
+Here are some ideas to get you started:
 
-GitHub Stats
-Here's a snapshot of my GitHub activity and streak stats.
+- 🔭 I’m currently working on My Exams...
+- 🌱 Learning Tensorflow.Keras,pytorch
+- 👯 Open to Collaborate..
+- 🤔 Let's grind homies, 
+- 💬 Ask me about Deep learning
+- 📫 How to reach me: [@balbheji](https://t.me/balbheji)
+- ⚡ Fun fact: -->
 
-Nitin's Github Stats
+"I am a highly skilled and results-driven machine learning engineer with [4 years] of experience in designing and implementing cutting-edge AI solutions. My expertise lies in [Deep learning, natural language processing, computer vision]. I have a proven track record of successfully delivering projects that have driven business growth and innovation.
 
-Ways to Reach Me
-Visit my portfolio website
-Connect with me on LinkedIn
-Follow me on Twitter
-Explore my projects and give them ⭐️
-I'm always open to new connections and collaborations. Feel free to reach out and say hi!
+### Language's used
 
-Stay Awesome!
-Thank you for visiting my GitHub profile. If you like what you see, don't forget to star my repositories and share them with your friends. Stay awesome, and happy coding!
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,bootstrap,python,css,figma,java,pytorch,)](#)
 
-Made with ❤️ in India
+### Social links
+
+
+
+### Github Stats
+
+![Saurav's Github Stats](https://github-readme-stats.vercel.app/api?username=NitinRwT&show_icons=true&theme=rose) ![Nitin's Github Stats](https://github-readme-streak-stats.herokuapp.com?user=NitinRwT&theme=rose&card_width=467)
+  
+_I love connecting with different people so if you want to say **hi, I'll be happy to talk with you more** :)_
+
+💙 If you like my projects, Give them ⭐ and Share it with friends!
+
+**Made with ❤️ in India**
