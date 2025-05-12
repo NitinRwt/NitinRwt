@@ -1,5 +1,4 @@
-<!-- My profile -->
-![Hanuman Ji](https://github.com/SauRavRwT/SauRavRwT/assets/90666710/0758796f-e7e8-4dbc-872e-fb270e15cf46)
+<!-- My profile
 
 
 > **"Transforming Data into Intelligent Solutions"**
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@balbheji](https://t.me/balbheji)
 - ⚡ Fun fact: -->
 
-"I am a highly skilled and results-driven machine learning engineer with [4 years] of experience in designing and implementing cutting-edge AI solutions. My expertise lies in [Deep learning, natural language processing, computer vision]. I have a proven track record of successfully delivering projects that have driven business growth and innovation.
+"I am a highly skilled and results-driven machine learning engineer with 4 years of experience in designing and implementing cutting-edge AI solutions. My expertise lies in Deep learning, natural language processing, computer vision. I have a proven track record of successfully delivering projects that have driven business growth and innovation.
 
 ### Language's used
 
