@@ -1,36 +1,60 @@
-<!-- My profile
+<!-- GitHub Profile README -->
 
+<h1 align="center">Transforming Data into Intelligent Solutions 🚀</h1>
 
-> **"Transforming Data into Intelligent Solutions"**
+### Hi there 👋, I'm [Nitin Rawat](https://NitinRwt.github.io)  
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=SauRavRwT&label=Visitors&color=64CCC5&style=flat" alt="visitor badge"/>
+</div>
 
-### Hi there 👋 , I'm [Nitin Rawat](https://NitinRwt.github.io)<div  align="right"><img src="https://komarev.com/ghpvc/?username=SauRavRwT&label=Visitors&color=64CCC5&style=flat" alt="visitor badge"/></div>
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on My Exams...
-- 🌱 Learning Tensorflow.Keras,pytorch
-- 👯 Open to Collaborate..
-- 🤔 Let's grind homies, 
-- 💬 Ask me about Deep learning
-- 📫 How to reach me: [@balbheji](https://t.me/balbheji)
-- ⚡ Fun fact: -->
+I'm a Machine Learning enthusiast currently building **AI-powered industrial meter reading systems**.  
+My recent focus is on a **two-stage text extraction pipeline** for 7-segment digital displays using segmentation and classification models like **DPDNet** or **SevenSegNet**.  
+I’m passionate about deep learning, computer vision, and creating impactful AI solutions for real-world problems.
 
-"I am a highly skilled and results-driven machine learning engineer with 4 years of experience in designing and implementing cutting-edge AI solutions. My expertise lies in Deep learning, natural language processing, computer vision. I have a proven track record of successfully delivering projects that have driven business growth and innovation.
+---
 
-### Language's used
+### 🚧 Currently:
+- 🔭 Developing ML architecture & fine-tuning segmentation models
+- ⚙️ Working on: **Industrial Meter Reading** project using **Deep Learning**
+- 🌱 Exploring: **TensorFlow.Keras** | **PyTorch** | **Model Deployment**
+- 💬 Ask me about: **Deep Learning**, **CV Pipelines**, **Model Optimization**
+- 📫 Reach me on Telegram: [@pahadibheji](https://t.me/Sensei13k)
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,bootstrap,python,css,figma,java,pytorch,)](#)
+---
 
-### Social links
+### 🧠 Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,dotnet,tensorflow,pytorch,docker,aws,bootstrap,python,css,figma,java)](#)
 
+---
 
-### Github Stats
+### 🌐 Connect with Me
 
-![Saurav's Github Stats](https://github-readme-stats.vercel.app/api?username=NitinRwT&show_icons=true&theme=rose) ![Nitin's Github Stats](https://github-readme-streak-stats.herokuapp.com?user=NitinRwT&theme=rose&card_width=467)
-  
-_I love connecting with different people so if you want to say **hi, I'll be happy to talk with you more** :)_
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NitinRwt)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-rawat-737364271/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/callme.rawat/)  
 
-💙 If you like my projects, Give them ⭐ and Share it with friends!
+---
+
+### 📁 Portfolio
+
+🔗 Check out my work: [NitinRwt.github.io](https://NitinRwt.github.io)
+
+---
+
+### 📊 GitHub Stats
+
+![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitinRwT&show_icons=true&theme=rose)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NitinRwT&theme=rose&card_width=467)
+
+---
+
+_I love connecting with people, so feel free to say **hi** anytime!_
+
+💙 If you like my projects, **give them a ⭐ and share them**!
 
 **Made with ❤️ in India**
